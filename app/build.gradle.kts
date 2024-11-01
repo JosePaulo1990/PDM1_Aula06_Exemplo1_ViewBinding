@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.pdm1_aula06_exemplo1_viewbinding"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.pdm1_aula06_exemplo1_viewbinding"
